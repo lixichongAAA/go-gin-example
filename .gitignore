@@ -1,6 +1,7 @@
 .idea/
+*.vscode
 .DS_Store
 
 runtime/*
-!runtime/qrcode/bg.jpg
-!runtime/fonts
+!runtime/qrcode
+!runtime/fonts  
